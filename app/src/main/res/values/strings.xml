@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Hamster</string>
+    <string name="hamster_description">Хомяк</string>
+    <string name="topAppBar">Тапай хомяка</string>
+    <string name="navigationIconClose">Закрыть</string>
+    <string name="actionsIconCollapse">Свернуть</string>
+    <string name="actionIconSettings">Настройки</string>
+    <string name="goldIconDescription">монета</string>
+    <string name="energy_content">Энергия</string>
+    <string name="binance_content">биржа бинанс</string>
+    <string name="mining_content">Майнинг</string>
+    <string name="friends_content">Друзья</string>
+    <string name="tasks_content">Задания</string>
+</resources>
